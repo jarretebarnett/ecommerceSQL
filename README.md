@@ -21,7 +21,7 @@ The project can be installed by cloning the HTTPS repository git address to a lo
 
 ## Usage
 
-The focus of this application is to utilize Insomnia Core in order to test the designated routes related to issued products, the categories they fall and, and numerical tagging of the items, as well as POSTING and DELETING categories and products respectively when so desired.
+The focus of this application is to utilize Insomnia Core in order to test the designated routes related to issued products, the categories they fall into, and numerical tagging of the items, as well as GETTING, POSTING, PUTTING and DELETING categories and/or products respectively when so desired.
 
 ## Contributions
 
