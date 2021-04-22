@@ -33,7 +33,7 @@ There are no other contributors to this project.
 
 ## Tests
 
-Users test the application by entering the desired route in the browser entry of Insomnia Core. Working routes will return a 200 Status, and the associated information of the route will be displayed in Preview. Also, POST and DELETE request functions work appropriately to add or remove product information to the database.
+Users test the application by entering the desired route in the browser entry of Insomnia Core. Working routes will return a 200 Status, and the associated information of the route will be displayed in Preview. Also, GET, POST, PUT and DELETE request functions work appropriately to add or remove product information to the database.
 
 ## Demo
 
@@ -49,7 +49,7 @@ Here is an example of a working POST request product having been added to the da
 
 ![added](assets/addedproduct.png)
 
-For a recorded demonstration of the working application, follow the link:
+For a recorded demonstration of the working application, follow the link: https://youtu.be/6r593-ef8Jk
 
 ## Questions
 
