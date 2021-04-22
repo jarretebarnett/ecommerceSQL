@@ -37,6 +37,8 @@ Users test the application by entering the desired route in the browser entry of
 
 ## Demo
 
+For a recorded demonstration of the working application, follow the link: https://youtu.be/6r593-ef8Jk
+
 Here are screenshots of working Insomnia Core routes:
 
 ![category route](assets/categoryroute.png)
@@ -48,8 +50,6 @@ Here are screenshots of working Insomnia Core routes:
 Here is an example of a working POST request product having been added to the database:
 
 ![added](assets/addedproduct.png)
-
-For a recorded demonstration of the working application, follow the link: https://youtu.be/6r593-ef8Jk
 
 ## Questions
 
