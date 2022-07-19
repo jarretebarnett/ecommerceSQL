@@ -2,17 +2,15 @@
 
 #### TABLE OF CONTENTS
 * ###### [OVERVIEW](#overview)
-* ###### [PAGE BREAKDOWN](#page-breakdown)
 * ###### [SCRIPTS ⤬ DEPENDENCIES](#scripts-⤬-dependencies)
 * ###### [INFORMATION](#information)
 
 ##### OVERVIEW
-##### PAGE BREAKDOWN
 ##### SCRIPTS ⤬ DEPENDENCIES
 * ###### SCRIPTS
-    * ###### `npm install`
-    * ###### `node seeds/index.js`
-    * ###### `node server.js`
+    * ###### `npm install` ⤬ Command to install `package.json` dependencies locally.
+    * ###### `node seeds/index.js` ⤬ Command to seed database locally.
+    * ###### `node server.js` ⤬ Command to connect to database using a localhost.
 * ###### DEPENDENCIES
     * ###### `nodemon`
     * ###### `dotenv`
